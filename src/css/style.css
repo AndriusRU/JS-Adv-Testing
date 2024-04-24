@@ -1,0 +1,106 @@
+body {
+    color: #999;
+}
+
+.button {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1em;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+
+.input {
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1em;
+    color: #555;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.input.valid {
+    background-color: rgb(96, 255, 199);
+}
+
+.input.invalid {
+    background-color: #ff4a4a;
+}
+
+.cards-list {
+    margin: 10px 0;
+    height: 25px;
+}
+
+.cards-list li {
+    display: block;
+    float: left;
+}
+
+.card {
+    float: left;
+    width: 39px;
+    height: 25px;
+    text-indent: -9999px;
+    background-position: 0 0;
+    margin-right: 4px;
+}
+
+.card.hidden {
+    background-position: 0 -25px;
+    opacity: 0.2;
+}
+
+.card.american-express {
+    background-image: url(../img/AmericanExpress.png);
+}
+
+.card.diners-inter {
+    background-image: url(../img/DinersClub.png);
+}
+
+.card.discover {
+    background-image: url(../img/Discover.png);
+}
+
+.card.instapay {
+    background-image: url(../img/instapay.png);
+}
+
+.card.jcb {
+    background-image: url(../img/JCB.png);
+}
+
+.card.maestro {
+    background-image: url(../img/Maestro.png);
+}
+
+.card.mastertcard {
+    background-image: url(../img/Mastercard.png);
+}
+
+.card.unionpay {
+    background-image: url(../img/UnionPay.png);
+}
+
+.card.visa {
+    background-image: url(../img/Visa.png);
+}
+
+.card.visa-electron {
+    background-image: url(../img/VisaElectron.png);
+}
+
+.card.mir {
+    background-image: url(../img/Mir.png);
+}
