@@ -1,4 +1,3 @@
 ### Badgik
-[![Build status](https://ci.appveyor.com/api/projects/status/gerisir054bdi94d?svg=true)](https://ci.appveyor.com/project/AndriusRU/js-adv-events)
+[![Build status](https://ci.appveyor.com/api/projects/status/smud1g87l1ekc3t0?svg=true)](https://ci.appveyor.com/project/AndriusRU/js-adv-testing)
 
-https://andriusru.github.io/JS-Adv-Events/
